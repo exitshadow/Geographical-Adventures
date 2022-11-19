@@ -226,7 +226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8a67bb3cebfd4141a991f0d232a17b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadFile: {fileID: 4900000, guid: 9b19237e8f123f44192b534c02b729ca, type: 3}
+  loadFile: {fileID: 4900000, guid: ded9fb0424a7b954fa8949ba376b8df2, type: 3}
   mat: {fileID: 2100000, guid: fcac902e8da9b3f49b6144f91996c966, type: 2}
   useStaticBatching: 1
   loadOnStart: 1
